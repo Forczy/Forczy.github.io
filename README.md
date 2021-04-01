@@ -1,2 +1,2 @@
 # Mackersbald.co.uk
-Mackers is bald :)
+ - Now with innovative hyper realistic quantum deep learning imaging of mackers
